@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "0 * * * *"   # chạy mỗi giờ
+    - cron: 0 * * * *"   # chạy mỗi giờ
   workflow_dispatch:
 
 jobs:
@@ -19,8 +19,6 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_EDITORS: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_LANGUAGE_PER_REPO: "True"
-          SHOW_LOC_CHART: "True"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_COMMIT: "True"
           SHOW_LINES_OF_CODE: "True"
