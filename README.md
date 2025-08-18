@@ -15,7 +15,7 @@
 #### Tool
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/sublimetext.svg"/>
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/phpstorm.svg"/>
-<img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/laragon.svg"/>
+<img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/laragon.svg"/> <br>
 
 ### Libraries and Frameworks:
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/jquery.svg"/>
