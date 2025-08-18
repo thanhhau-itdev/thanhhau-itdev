@@ -4,7 +4,7 @@
 😄 Fun fact: I share it with you! <br>
 
 ### Spotify Playing 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tpqxn65acxc2qtzb26nammy2cu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31tpqxn65acxc2qtzb26nammy2cu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Language
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/cplusplus.svg"/>
