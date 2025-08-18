@@ -11,13 +11,13 @@
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/phpstorm.svg"/>
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/laragon.svg"/>
 <img align="left" width="32" height="32" src="https://svgrepo.com/show/521330/vscode-16.svg"/>
-<img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/platformio.svg"/>
+<img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/platformio.svg"/> <br>
 
 ### Libraries and Frameworks:
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/jquery.svg"/>
-<img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/laravel.svg"/>
+<img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/laravel.svg"/> <br>
 
 ### Databases:
-<img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/mysql"/>
+<img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/mysql.svg"/> <br>
 
 ### Development Stats
