@@ -11,7 +11,7 @@
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/python.svg"/>
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/php.svg"/> <br>
 
-### Back-end Engineer
+### Back-End
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/sublimetext.svg"/>
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/phpstorm.svg"/>
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/laragon.svg"/>
@@ -19,7 +19,7 @@
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/jquery.svg"/>
 <img align='left' height='32' width='32' src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/laravel.svg"/> <br>
 
-### Embedded Systems Engineer
+### Embedded
 <img align="left" width="32" height="32" src="https://svgrepo.com/show/521330/vscode-16.svg"/>
 <img align="left" width="32" height="32" src="https://cdn.jsdelivr.net/npm/simple-icons@15.11.0/icons/platformio.svg"/> <br>
 
