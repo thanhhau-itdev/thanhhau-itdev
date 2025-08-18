@@ -25,7 +25,7 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-250-blue)
 
@@ -53,6 +53,6 @@ Windows                  7 hrs 22 mins       ███████████�
 ```
 
 
- Last Updated on 18/08/2025 16:21:20 UTC
+ Last Updated on 18/08/2025 17:16:37 UTC
 <!--END_SECTION:waka-->
 
