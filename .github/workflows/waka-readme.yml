@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: 0 * * * *"   # chạy mỗi giờ
+    - cron: "0 * * * *"   # chạy mỗi giờ
   workflow_dispatch:
 
 jobs:
