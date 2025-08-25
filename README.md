@@ -46,13 +46,13 @@ Sunday                   71 commits          ███░░░░░░░░�
 
 ```text
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 25/08/2025 17:12:57 UTC
+ Last Updated on 25/08/2025 18:23:19 UTC
 <!--END_SECTION:waka-->
 
