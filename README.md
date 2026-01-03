@@ -29,7 +29,30 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+📅 **I'm Most Productive on Monday** 
 
- Last Updated on 03/01/2026 09:17:09 UTC
+```text
+Monday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
+Tuesday                  100 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
+Wednesday                84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Thursday                 84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Friday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Saturday                 94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+Sunday                   87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 03/01/2026 10:17:09 UTC
 <!--END_SECTION:waka-->
 
