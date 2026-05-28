@@ -25,34 +25,9 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2025%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📅 **I'm Most Productive on Sunday** 
 
-```text
-Monday                   148 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Tuesday                  113 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Wednesday                91 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Thursday                 97 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Friday                   83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Saturday                 104 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Sunday                   181 commits         ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 28/05/2026 15:41:45 UTC
+ Last Updated on 28/05/2026 18:34:11 UTC
 <!--END_SECTION:waka-->
 
