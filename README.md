@@ -25,8 +25,6 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2025%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
@@ -53,6 +51,6 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 07/06/2026 15:22:07 UTC
+ Last Updated on 07/06/2026 17:11:50 UTC
 <!--END_SECTION:waka-->
 
