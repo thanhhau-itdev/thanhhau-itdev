@@ -25,18 +25,20 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-67-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%204%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   159 commits         █████░░░░░░░░░░░░░░░░░░░░   18.45 % 
-Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Wednesday                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-Thursday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Friday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Saturday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Sunday                   193 commits         ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Monday                   159 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Tuesday                  121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Wednesday                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Thursday                 90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
+Friday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Saturday                 116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Sunday                   193 commits         ██████░░░░░░░░░░░░░░░░░░░   22.18 % 
 ```
 
 
@@ -44,10 +46,10 @@ Sunday                   193 commits         ██████░░░░░�
 
 ```text
 🔥 Editors: 
-No Activity Tracked This Week
+PhpStorm                 5 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -57,6 +59,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/09/2026 04:23:22 UTC
+ Last Updated on 23/09/2026 16:33:08 UTC
 <!--END_SECTION:waka-->
 
