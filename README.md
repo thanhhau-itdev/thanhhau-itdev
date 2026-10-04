@@ -25,9 +25,7 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2041%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue?style=flat)
 
 📅 **I'm Most Productive on Sunday** 
 
@@ -46,10 +44,10 @@ Sunday                   193 commits         ██████░░░░░�
 
 ```text
 🔥 Editors: 
-PhpStorm                 4 hrs 40 mins       █████████████████████████   100.00 % 
+PhpStorm                 1 hr 56 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -59,6 +57,6 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 27/09/2026 07:21:40 UTC
+ Last Updated on 04/10/2026 05:17:55 UTC
 <!--END_SECTION:waka-->
 
